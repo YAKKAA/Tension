@@ -1476,9 +1476,9 @@ Light:
   m_Shape: 0
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Intensity: 1.5
-  m_Range: 20
-  m_SpotAngle: 50
-  m_InnerSpotAngle: 5
+  m_Range: 50
+  m_SpotAngle: 70
+  m_InnerSpotAngle: 1
   m_CookieSize: 10
   m_Shadows:
     m_Type: 0
@@ -2319,7 +2319,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 266917039}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -5.07, y: 2.05, z: 2.85}
+  m_LocalPosition: {x: -0.2, y: -4.6, z: 36.100002}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -5187,7 +5187,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &774397295
 Transform:
   m_ObjectHideFlags: 0
@@ -9037,17 +9037,9 @@ MonoBehaviour:
   m_Mesh: {fileID: 1946963509}
   m_VersionIndex: 8391
   m_IsSelectable: 1
-  m_SelectedFaces: 23000000
-  m_SelectedEdges:
-  - a: 142
-    b: 143
-  - a: 143
-    b: 141
-  - a: 141
-    b: 140
-  - a: 140
-    b: 142
-  m_SelectedVertices: 8e0000008f0000008d0000008c000000
+  m_SelectedFaces: 
+  m_SelectedEdges: []
+  m_SelectedVertices: 
 --- !u!4 &959067448
 Transform:
   m_ObjectHideFlags: 0
