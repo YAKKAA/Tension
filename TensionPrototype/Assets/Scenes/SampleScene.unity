@@ -12152,7 +12152,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   player: {fileID: 266917039}
   isChasing: 0
-  chaseDistance: 7
+  chaseDistance: 10
 --- !u!195 &1238385414
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -15586,7 +15586,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh24126
+  m_Name: pb_Mesh24164
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -15760,7 +15760,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh24064
+  m_Name: pb_Mesh24100
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
